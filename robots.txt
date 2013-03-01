@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://boia.github.com/sitemap.xml 
+Sitemap: http://boiawang.github.com/sitemap.xml 
